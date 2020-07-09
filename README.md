@@ -1,0 +1,2 @@
+# offset-notation
+Write the function named sum together with the main function, which places the mutual totals of the elements of the 5-element array of two integer types sent to it in the 3rd series with the 5-element sent to it. In the main, before calling the function, first call the sequences to be collected, and then print the 3rd series, both of which have been collected, using the offset notation on the screen. The variables (formal parameters) in the sum function should be pointers and access to the array elements should be done according to the offset notation.
